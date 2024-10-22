@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43883851515",
+    "project_id": "cibertec-app-7ef57",
+    "storage_bucket": "cibertec-app-7ef57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43883851515:android:888c8bf7a3e9601f22ca5e",
+        "android_client_info": {
+          "package_name": "com.aero.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbKfqiuYTDjmF0cqYohesOXebh0Qk3slY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
